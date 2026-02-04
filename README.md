@@ -1,5 +1,27 @@
-# 💫 About Me:
-🧑‍💻 I’m currently working on  <br>Building Python-based solutions using Pandas for data analysis, preprocessing, and automation.<br><br>🤝 I’m looking to collaborate on  <br>Open-source projects related to Python, data analysis, and full-stack development.<br><br>🆘 I’m looking for help with  <br>Improving data analytics workflows and writing efficient, scalable Python code.<br><br>🌱 I’m currently learning  <br>Advanced Python, Pandas, and real-world data analysis techniques.<br><br>💬 Ask me about  <br>Python, Pandas, data analysis, REST APIs, and full-stack development.<br><br>⚡ Fun fact  <br>I enjoy turning raw data into meaningful insights using Python.<br>
+## 👋 About Me
+
+I’m a Software Engineer with hands-on experience building **scalable backend systems**, 
+**full-stack web applications**, and **AI-powered products** used in real-world scenarios.
+
+💼 Currently working as a **Software Engineer Intern**, where I design and develop RESTful APIs, 
+optimize backend performance using caching and efficient data models, and build production-ready 
+features using **Node.js, Python, and modern web frameworks**.
+
+🧠 I enjoy working close to the system layer — designing clean APIs, structuring databases, 
+handling authentication & authorization (JWT, RBAC), and thinking through edge cases, 
+performance, and reliability.
+
+🤖 Recently, I’ve been exploring **Generative AI and agent-based systems**, building projects 
+using **LangChain, LangGraph, and LLM APIs** to automate decision-making workflows such as 
+resume screening, scoring, and intelligent matching.
+
+🚀 I’m actively looking for **Software Development Engineer (SDE)**, **Full-Stack**, 
+and **Applied GenAI** roles where I can work on challenging problems, ship impactful features, 
+and grow as an engineer by working on real production systems.
+
+💬 Ask me about: Backend development, REST APIs, system design fundamentals, 
+full-stack engineering, and building practical GenAI applications.
+
 
 
 ## 🌐 Socials:
